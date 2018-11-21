@@ -1,0 +1,124 @@
+11/21/18 17:12:55:506 | [INFO] |  |  |  | AGSService |  |  | 558 | AdobeGCData folder already exists, validating permissions
+11/21/18 17:12:55:507 | [INFO] |  |  |  | AGSService |  |  | 558 | Successfully created/fetched AdobeGCData Folder
+11/21/18 17:13:12:603 | [INFO] |  |  |  | AdobeGCInvokerUtilityHelper |  |  | 4025 | AdobeGCInvokerUtility : inside getLatestGCApplication
+11/21/18 17:13:12:603 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 4025 | ***********AdobeGC Updater library invoked = 6.1.0.91 ************
+11/21/18 17:13:12:603 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4025 | Perform WF started
+11/21/18 17:13:12:604 | [DEBUG] |  |  |  | AdobeGCUpdaterCFU |  |  | 4083 | Trying to acquire the semaphore
+11/21/18 17:13:12:604 | [DEBUG] |  |  |  | AdobeGCUpdaterCFU |  |  | 4083 | Semaphore acquired
+11/21/18 17:13:12:604 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4083 | Threaded CFU Started
+11/21/18 17:13:12:604 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 4083 | Get client install path Started
+11/21/18 17:13:12:604 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 4083 | Get client install path Ended
+11/21/18 17:13:12:604 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4083 | Client sanitization started
+11/21/18 17:13:12:604 | [DEBUG] |  |  |  | AdobeGCCodeSignWrapper |  |  | 4083 | Invoked VerifyCodeSign for app: /Library/Application Support/Adobe/AdobeGCClient/AdobeGCClient.app
+11/21/18 17:13:12:604 | [INFO] |  |  |  | AdobeGCCodeSignWrapper |  |  | 4025 | Perform WF completed
+11/21/18 17:13:12:604 | [ERROR] |  |  |  | AdobeGCInvokerUtilityHelper |  |  | 4025 | AdobeGCInvokerUtility :inside waitForCFUCallBack.
+11/21/18 17:13:12:724 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 4027 | ***********AdobeGC Updater library invoked = 6.1.0.91 ************
+11/21/18 17:13:12:724 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4027 | Perform WF started
+11/21/18 17:13:12:724 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4027 | Perform WF completed
+11/21/18 17:13:12:724 | [DEBUG] |  |  |  | AdobeGCUpdaterCFU |  |  | 4113 | Trying to acquire the semaphore
+11/21/18 17:13:12:824 | [DEBUG] |  |  |  | AdobeGCCodeSignWrapper |  |  | 4083 | Status returned is 0 
+11/21/18 17:13:12:824 | [DEBUG] |  |  |  | AdobeGCCodeSignWrapper |  |  | 4083 | Code signature is OK. 
+11/21/18 17:13:12:824 | [DEBUG] |  |  |  | AdobeGCCodeSignWrapper |  |  | 4083 | Completed VerifyCodeSign. 
+11/21/18 17:13:12:827 | [INFO] |  |  |  | AdobeGCVersionWrapper |  |  | 4083 | Getting version of package at /Library/Application Support/Adobe/AdobeGCClient/AdobeGCClient.app
+11/21/18 17:13:12:828 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4083 | Client sanitization ended
+11/21/18 17:13:12:828 | [INFO] |  |  |  | AdobeGCClientHealthUtil |  |  | 4083 | Checking CEF dependencies
+11/21/18 17:13:12:828 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4083 | Threaded CFU Ended
+11/21/18 17:13:12:828 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4083 | Semaphore signalled
+11/21/18 17:13:12:887 | [DEBUG] |  |  |  | AdobeGCUpdaterCFU |  |  | 4113 | Semaphore acquired
+11/21/18 17:13:12:887 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4113 | Threaded CFU Started
+11/21/18 17:13:12:887 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 4113 | Get client install path Started
+11/21/18 17:13:12:887 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 4113 | Get client install path Ended
+11/21/18 17:13:12:887 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4113 | Client sanitization started
+11/21/18 17:13:12:887 | [DEBUG] |  |  |  | AdobeGCCodeSignWrapper |  |  | 4113 | Invoked VerifyCodeSign for app: /Library/Application Support/Adobe/AdobeGCClient/AdobeGCClient.app
+11/21/18 17:13:13:672 | [ERROR] |  |  |  | AdobeGCInvokerUtilityHelper |  |  | 4025 | AdobeGCInvokerUtility :  AdobeGC_CFUCallbackFn is invoked
+11/21/18 17:13:13:672 | [ERROR] |  |  |  | AdobeGCInvokerUtilityHelper |  |  | 4025 | AdobeGCInvokerUtility : inside invokeGCApplication.
+11/21/18 17:13:13:672 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 4025 | ***********AdobeGC Updater library invoked = 6.1.0.91 ************
+11/21/18 17:13:13:672 | [DEBUG] |  |  |  | AdobeGCUpdaterIC |  |  | 4025 | Trying to acquire the semaphore
+11/21/18 17:13:13:843 | [DEBUG] |  |  |  | AdobeGCCodeSignWrapper |  |  | 4113 | Status returned is 0 
+11/21/18 17:13:13:843 | [DEBUG] |  |  |  | AdobeGCCodeSignWrapper |  |  | 4113 | Code signature is OK. 
+11/21/18 17:13:13:843 | [DEBUG] |  |  |  | AdobeGCCodeSignWrapper |  |  | 4113 | Completed VerifyCodeSign. 
+11/21/18 17:13:13:846 | [INFO] |  |  |  | AdobeGCVersionWrapper |  |  | 4113 | Getting version of package at /Library/Application Support/Adobe/AdobeGCClient/AdobeGCClient.app
+11/21/18 17:13:13:846 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4113 | Client sanitization ended
+11/21/18 17:13:13:846 | [INFO] |  |  |  | AdobeGCClientHealthUtil |  |  | 4113 | Checking CEF dependencies
+11/21/18 17:13:13:846 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4113 | Threaded CFU Ended
+11/21/18 17:13:13:846 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 4113 | Semaphore signalled
+11/21/18 17:13:14:012 | [DEBUG] |  |  |  | AdobeGCUpdaterIC |  |  | 4025 | Semaphore acquired
+11/21/18 17:13:14:012 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4025 | Perform WF started
+11/21/18 17:13:14:014 | [ERROR] |  |  |  | AdobeGCUpdaterIC |  |  | 4025 | Time flag read
+11/21/18 17:13:14:014 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4025 | GCInvokerNextClientLaunchTimestamp from cache 1542854347
+11/21/18 17:13:14:014 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4025 | GCInvokerNextClientLaunchTimestamp cached 1542854347 , curr 1542791594 res = 0
+11/21/18 17:13:14:014 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4025 | Invocation agent is GC Invoker Utility and time is not elapsed 
+11/21/18 17:13:14:014 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4025 | Not invoking client
+11/21/18 17:13:14:014 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4025 | Perform WF completed
+11/21/18 17:13:14:014 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4025 | Semaphore signalled
+11/21/18 17:13:14:014 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 4025 | ***********AdobeGC Updater library End*******************
+11/21/18 17:13:14:014 | [ERROR] |  |  |  | AdobeGCInvokerUtilityHelper |  |  | 4025 | AdobeGCInvokerUtility : AdobeGC_ReleaseRef called.
+11/21/18 17:13:14:872 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 4027 | ***********AdobeGC Updater library invoked = 6.1.0.91 ************
+11/21/18 17:13:14:872 | [DEBUG] |  |  |  | AdobeGCUpdaterIC |  |  | 4027 | Trying to acquire the semaphore
+11/21/18 17:13:14:872 | [DEBUG] |  |  |  | AdobeGCUpdaterIC |  |  | 4027 | Semaphore acquired
+11/21/18 17:13:14:872 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4027 | Perform WF started
+11/21/18 17:13:14:872 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4027 | Invocation agent is CSUpdater 
+11/21/18 17:13:14:872 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4027 | Not invoking client
+11/21/18 17:13:14:872 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4027 | Perform WF completed
+11/21/18 17:13:14:872 | [INFO] |  |  |  | AdobeGCUpdaterIC |  |  | 4027 | Semaphore signalled
+11/21/18 17:13:14:872 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 4027 | ***********AdobeGC Updater library End*******************
+11/21/18 17:13:17:690 | [INFO] |  |  |  | AGMService |  |  | 4022 | Initializing Directory Watcher.
+11/21/18 17:13:17:691 | [INFO] |  |  |  | AGMService |  |  | 4022 | Stream created for path /Library/Application Support/Adobe
+11/21/18 18:12:56:424 | [INFO] |  |  |  | AGSService |  |  | 558 | Inside Thread CFU
+11/21/18 18:12:56:428 | [INFO] |  |  |  | AGSService |  |  | 558 | Thread calling CFU...
+11/21/18 18:12:56:435 | [INFO] |  |  |  | AdobeGCUpdater |  |  | 558 | ***********AdobeGC Updater library invoked = 6.1.0.91 ************
+11/21/18 18:12:56:438 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 558 | Perform WF started
+11/21/18 18:12:56:438 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 558 | Perform WF completed
+11/21/18 18:12:56:438 | [DEBUG] |  |  |  | AGSService |  |  | 67301 | Trying to acquire the semaphore
+11/21/18 18:12:56:438 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 558 | Thread CFU launched...
+11/21/18 18:12:56:438 | [DEBUG] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | Semaphore acquired
+11/21/18 18:12:56:439 | [INFO] |  |  |  | AdobeGCHostfileValidation |  |  | 67301 | Hostfile opened successfully
+11/21/18 18:12:56:440 | [DEBUG] |  |  |  | AdobeGCHostfileValidation |  |  | 67301 | Checking if gocart server url is blocked in hostfile
+11/21/18 18:12:56:440 | [INFO] |  |  |  | SLCoreService |  |  | 67301 | Starting up SLCore 2.0 Release (build 2.0.1.360321).
+11/21/18 18:12:56:441 | [ERROR] |  |  |  | SLCoreService |  |  | 67301 | user based licensing: 0
+11/21/18 18:12:56:441 | [INFO] |  |  |  | SLCoreService |  |  | 67301 | Service construction took 0.7 ms and succeed.
+11/21/18 18:12:56:460 | [INFO] |  |  |  | SLCoreService |  |  | 67301 | Shutting down SLCore 2.0 Release (build 2.0.1.360321).
+11/21/18 18:12:56:466 | [INFO] |  |  |  | SLCoreService |  |  | 67301 | Service destruction took 5.3 ms and succeed.
+11/21/18 18:12:56:466 | [ERROR] |  |  |  | AdobeGCIALWrapper |  |  | 67301 | Fetching server URL from dispatch table
+11/21/18 18:12:56:492 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | __OOBELIB_LOG_FILE__
+11/21/18 18:12:56:492 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Dispatch table loaded from path: /Library/Application Support/Adobe/AdobeGCClient/.//dispatchtable.xml 
+11/21/18 18:12:56:502 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | (re)load Local Dispatch Table status-[0].
+11/21/18 18:12:56:502 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Scope : [2]
+11/21/18 18:12:56:502 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Setting scope to GM
+11/21/18 18:12:56:502 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 67301 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+11/21/18 18:12:56:502 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | EndPoint requested: [PostRulesData]
+11/21/18 18:12:56:502 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Length of the URL: [50]
+11/21/18 18:12:56:502 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Returning from getEndpointAddr: [0]
+11/21/18 18:12:56:502 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | EndPoint requested: [PostRulesData]
+11/21/18 18:12:56:502 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Length of the URL: [50]
+11/21/18 18:12:56:503 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | URL found [https://genuine.adobe.com/server/services/check/v1]
+11/21/18 18:12:56:503 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Returning from getEndpointAddr: [0]
+11/21/18 18:12:56:503 | [ERROR] |  |  |  | AdobeGCIALWrapper |  |  | 67301 | Fetching server URL from dispatch table
+11/21/18 18:12:56:503 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Dispatch table loaded from path: /Library/Application Support/Adobe/AdobeGCClient/.//dispatchtable.xml 
+11/21/18 18:12:56:503 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | (re)load Local Dispatch Table status-[0].
+11/21/18 18:12:56:503 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Scope : [2]
+11/21/18 18:12:56:503 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Setting scope to GM
+11/21/18 18:12:56:503 | [INFO] |  |  |  | AdobeGCIALWrapper |  |  | 67301 | AdobeIALClient 1.0 Release (build 1.0.6.3) initializing session...
+11/21/18 18:12:56:504 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | EndPoint requested: [ETSEndPoint]
+11/21/18 18:12:56:504 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Length of the URL: [48]
+11/21/18 18:12:56:504 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Returning from getEndpointAddr: [0]
+11/21/18 18:12:56:504 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | EndPoint requested: [ETSEndPoint]
+11/21/18 18:12:56:504 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Length of the URL: [48]
+11/21/18 18:12:56:504 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | URL found [https://na1e.services.adobe.com/hsmessaging/rest]
+11/21/18 18:12:56:504 | [INFO] |  |  |  | DispatchClientLib |  |  | 67301 | Returning from getEndpointAddr: [0]
+11/21/18 18:12:56:505 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 67301 | deleteServerDomainBlockedKeyFromCache 
+11/21/18 18:12:56:516 | [INFO] |  |  |  | AdobeGCClientNSLookup |  |  | 67301 | deleteServerAliasBlockedKeyFromCache 
+11/21/18 18:12:56:517 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | Threaded CFU Started
+11/21/18 18:12:56:517 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | Update call started
+11/21/18 18:12:56:517 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | Suppress Update Flag = 0
+11/21/18 18:12:56:517 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | GC Kill Switch = 0
+11/21/18 18:12:56:518 | [ERROR] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | Time flag read
+11/21/18 18:12:56:518 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | LastUpdateCheckDurationPassed from cache 1542858257
+11/21/18 18:12:56:518 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | LastUpdateCheckDurationPassed cached 1542858257 , curr 1542795176 res = 0
+11/21/18 18:12:56:518 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | Suppressing update check for this launch
+11/21/18 18:12:56:518 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | Update call ended
+11/21/18 18:12:56:518 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | GCClient App not being downloaded
+11/21/18 18:12:56:518 | [INFO] |  |  |  | AGSService |  |  | 67301 | Inside CheckCFU
+11/21/18 18:12:56:518 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | Threaded CFU Ended
+11/21/18 18:12:56:518 | [INFO] |  |  |  | AdobeGCUpdaterCFU |  |  | 67301 | Semaphore signalled
+11/21/18 18:13:01:513 | [INFO] |  |  |  | AGSService |  |  | 558 | AGSSerice Main ...6.1.0.91
